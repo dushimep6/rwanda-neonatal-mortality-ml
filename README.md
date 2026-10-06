@@ -87,8 +87,12 @@ The other files in each folder (Brier scores, calibration, overfitting, confusio
 
 ## Licence and citation
 
-The code is released under the MIT licence (see `LICENSE`). The licence covers the code only, not the DHS data. If you use this code, please cite the paper (see `CITATION.cff`).
+The code is released under the MIT licence (see `LICENSE`). The licence covers the code only, not the DHS data. If you use this code, please cite the paper (see `CITATION.cff`). The code is archived on Zenodo: [10.5281/zenodo.23191383](https://doi.org/10.5281/zenodo.23191383) (this DOI always resolves to the latest version).
 
 ## Contact
 
 Pasteur Dushimimana (corresponding author), dushimep6@gmail.com.
+
+
+
+
