@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper."
+title: "Code for: Predicting neonatal mortality in Rwanda using the 2025 Demographic and Health Survey: a comparison of logistic regression and machine learning algorithms"
+type: software
+authors:
+  - family-names: Dushimimana
+    given-names: Pasteur
+  - family-names: Sumwiza
+    given-names: Kellen
+  - family-names: Uwamahoro
+    given-names: Raphael
+  - family-names: Twizere
+    given-names: Celestin
+  - family-names: Tumusiime
+    given-names: David K.
+  - family-names: Rushingabigwi
+    given-names: Gerard
+  - family-names: Mugisha
+    given-names: Emmy
+license: MIT

@@ -1,0 +1,15 @@
+# Python packages used by python/01_model1_ml_pipeline.py and python/02_model2_ml_pipeline.py
+# Install with: pip install -r requirements.txt
+# To record your exact versions after a successful run: pip freeze > requirements-lock.txt
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+lightgbm
+catboost
+imbalanced-learn
+optuna
+shap
+matplotlib
+seaborn

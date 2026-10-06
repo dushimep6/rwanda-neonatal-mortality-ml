@@ -1,0 +1,24 @@
+# Survey data and files derived from it must never be committed
+data/*
+!data/README.md
+*.dta
+*.sav
+
+# Generated results (remove these lines to publish aggregate tables and figures)
+results/*
+!results/README.md
+
+# Python and environment files
+__pycache__/
+*.pyc
+.venv/
+venv/
+neonatal_ml_env/
+NeonatalDeath_env/
+env/
+*_env/
+.ipynb_checkpoints/
+
+# Stata logs
+*.smcl
+*.log
